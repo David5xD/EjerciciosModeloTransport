@@ -1,4 +1,4 @@
-# EjerciciosParcialIO
+# EjerciciosModeloTransport
 
 Resolución de Ejercicios de Modelo de Transporte mediante Vogel, Minimo Costo y Esquina Noroeste usando Python
 
